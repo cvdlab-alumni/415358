@@ -233,8 +233,8 @@ function tableM(color){
 
     //DRAW(tavolaT);
 
-    var marabù = STRUCT([leg1,leg2,base,circle,tavolaT]);
-    return marabù;
+    var marabu = STRUCT([leg1,leg2,base,circle,tavolaT]);
+    return marabu;
 }
 
 DRAW(tableM(color));
