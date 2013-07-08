@@ -1,3 +1,2 @@
-Final project
 
-Final project page is [here](https://github.com/ale89/ale89.github.io)
+Final project page is [here](http://ale89.github.io)
